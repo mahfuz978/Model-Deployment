@@ -1,1 +1,1 @@
-https://sample-heroku-bijayapp.herokuapp.com/
+https://wineclassification978.herokuapp.com/
